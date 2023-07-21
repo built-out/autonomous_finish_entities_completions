@@ -48,6 +48,9 @@
   url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/metadata.xlsx},
 }
 @inproceedings{,
+  url = {https://en.wikipedia.org/wiki/List_of_states_of_matter},
+}
+@inproceedings{,
   url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/metadata.html},
 }
 @article {core_knowledge,
