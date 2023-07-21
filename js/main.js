@@ -1,3 +1,4 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.9.0/math.js" integrity="sha512-Di2VYAGE2zaPDsEz3856nUZXF0RjMWUVGuCYE7qvRGmE2DdM9ieaZm3g+gXMRlHZoewTPGsOZQrAwqwQS3RGZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/bibliography">
 @inproceedings{,
   url = {https://github.com/organization-owner/.github/blob/87c181d0645bb0d4df3714c5423e403faccb1a02/fine-completions.pdf},
