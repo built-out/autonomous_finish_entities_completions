@@ -14,14 +14,11 @@
 @inproceedings{,
   url = {https://github.com/organization-owner/.github/blob/87c181d0645bb0d4df3714c5423e403faccb1a02/Label_Attention_Layer.pdf},
 }
-}
 @inproceedings{,
   url = {https://github.com/organization-owner/.github/blob/87c181d0645bb0d4df3714c5423e403faccb1a02/NAS-Bench-101_%20Towards%20Reproducible%20Neural%20Architecture%20Search__l.pdf},
 }
-}
 @inproceedings{,
   url = {https://github.com/organization-owner/.github/blob/87c181d0645bb0d4df3714c5423e403faccb1a02/Neuroevolution%20of%20Self-Interpretable%20Agents.pdf},
-}
 }
 @inproceedings{,
   url = {https://github.com/organization-owner/.github/blob/87c181d0645bb0d4df3714c5423e403faccb1a02/emergent-abilities.pdf},
@@ -52,6 +49,27 @@
 }
 @inproceedings{,
   url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/metadata.html},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/pdf7.json},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/pdf6.json},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/pdf5.json},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/pdf4.json},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/pdf3.json},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/pdf2.json},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/pdf1.json},
 }
 @article {core_knowledge,
   title = {Core knowledge},
