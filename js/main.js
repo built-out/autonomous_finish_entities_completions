@@ -1,4 +1,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.9.0/math.js" integrity="sha512-Di2VYAGE2zaPDsEz3856nUZXF0RjMWUVGuCYE7qvRGmE2DdM9ieaZm3g+gXMRlHZoewTPGsOZQrAwqwQS3RGZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.154.0/three.min.js" integrity="sha512-WafpPDLG+DwH6lDCsUrzvXU6/TAEFoUmK5udCmfzEoYyK28uXLF5DWk3yLOQ1PqLo9cxH/Ys/Jex6q1jHu+EDQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cesium/1.107.2/Cesium.js" integrity="sha512-Vpw0feTQaUUnfm0smBnnyxipJl6wSwUNYgH7VUQVKjPLxCiQ2h37TEP5QglBRI7q/UFU8dM1hJ2uuv4vGQqX8Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/3Dmol/2.0.3/3Dmol-min.js" integrity="sha512-jweq4GWaP9GAOgoHcrtXdPu3ngMPVdQ5JqEPmNEI1P7v8LMFkvN++JBtDecLL7nbpU5iU73gzrNvKbGNT2Unhw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/bibliography">
 @inproceedings{,
   url = {https://github.com/organization-owner/.github/blob/87c181d0645bb0d4df3714c5423e403faccb1a02/fine-completions.pdf},
