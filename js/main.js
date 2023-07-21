@@ -80,6 +80,9 @@
 @inproceedings{,
   url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/pdf1.json},
 }
+@inproceedings{,
+  url = {https://raw.githubusercontent.com/jacomyal/sigma.js/main/demo/public/dataset.json},
+}
 @article {core_knowledge,
   title = {Core knowledge},
   journal = {Developmental Science},
