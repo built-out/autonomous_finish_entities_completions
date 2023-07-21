@@ -84,6 +84,12 @@
 @inproceedings{,
   url = {https://raw.githubusercontent.com/jacomyal/sigma.js/main/demo/public/dataset.json},
 }
+@inproceedings{,
+  url = {https://github.com/openai/openai-cookbook/raw/main/examples/Fine-tuned_classification.ipynb},
+}
+@inproceedings{,
+  url = {https://github.com/openai/openai-cookbook/raw/main/examples/azure/completions.ipynb},
+}
 @article {core_knowledge,
   title = {Core knowledge},
   journal = {Developmental Science},
