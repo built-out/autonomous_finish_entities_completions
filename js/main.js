@@ -1,4 +1,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.9.0/math.js" integrity="sha512-Di2VYAGE2zaPDsEz3856nUZXF0RjMWUVGuCYE7qvRGmE2DdM9ieaZm3g+gXMRlHZoewTPGsOZQrAwqwQS3RGZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src ="https://raw.githubusercontent.com/built-out/allside-domains/main/nn.js" ></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.154.0/three.min.js" integrity="sha512-WafpPDLG+DwH6lDCsUrzvXU6/TAEFoUmK5udCmfzEoYyK28uXLF5DWk3yLOQ1PqLo9cxH/Ys/Jex6q1jHu+EDQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/cesium/1.107.2/Cesium.js" integrity="sha512-Vpw0feTQaUUnfm0smBnnyxipJl6wSwUNYgH7VUQVKjPLxCiQ2h37TEP5QglBRI7q/UFU8dM1hJ2uuv4vGQqX8Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
