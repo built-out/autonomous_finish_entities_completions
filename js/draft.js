@@ -43,7 +43,13 @@
 }
 @inproceedings{,
   url = {https://github.com/organization-owner/.github/blob/87c181d0645bb0d4df3714c5423e403faccb1a02/1657_understanding_and_robustifying-Original%20Pdf.pdf},
-}    
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/metadata.xlsx},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/js/metadata.html},
+}
 @article {core_knowledge,
   title = {Core knowledge},
   journal = {Developmental Science},
