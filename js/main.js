@@ -90,6 +90,24 @@
 @inproceedings{,
   url = {https://github.com/openai/openai-cookbook/raw/main/examples/azure/completions.ipynb},
 }
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/strategy/documentation.yml},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/strategy/heuristics.yml},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/strategy/grammars.yml},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/strategy/languages.yml},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/strategy/popular.yml},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/strategy/generic.yml},
+}
 @article {core_knowledge,
   title = {Core knowledge},
   journal = {Developmental Science},
