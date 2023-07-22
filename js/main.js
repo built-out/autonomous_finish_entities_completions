@@ -15,6 +15,11 @@
 <script type="text/bibliography">
 @inproceedings{,
   url = {https://github.com/organization-owner/.github/blob/87c181d0645bb0d4df3714c5423e403faccb1a02/fine-completions.pdf},
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_finish_entities_completions/raw/main/js/dqn.pdf},
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_finish_entities_completions/raw/main/js/DQNNaturePaper.pdf},
 }
 @inproceedings{,
   url = {https://github.com/organization-owner/.github/blob/87c181d0645bb0d4df3714c5423e403faccb1a02/AutoML_Book_Chapter3.pdf},
