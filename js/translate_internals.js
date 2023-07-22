@@ -563,7 +563,7 @@ function addMessageHandlers() {
 }
 
 /**
- * The callback of button#detetion-logs-dump.
+ * The callback of detetion-logs-dump.
  */
 function onDetectionLogsDump() {
   const data = JSON.stringify(detectionLogs);
