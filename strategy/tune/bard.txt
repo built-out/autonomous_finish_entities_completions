@@ -1,0 +1,13 @@
+curl -X POST \
+  -H "Authorization: Bearer 1234567890" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model_id": "my_model",
+    "training_data": "training_data.json",
+    "validation_data": "validation_data.json",
+    "fine_tune_parameters": {
+      "learning_rate": 0.0001,
+      "epochs": 10
+    }
+  }' \
+  https://api.bard.google.com/v1/finetune
