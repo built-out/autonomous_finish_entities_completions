@@ -1,0 +1,5 @@
+{
+  "model": "curie",
+  "training_file": "https://my-storage-account.blob.core.windows.net/training-data/curie.jsonl",
+  "validation_file": "https://my-storage-account.blob.core.windows.net/validation-data/curie.jsonl"
+}
