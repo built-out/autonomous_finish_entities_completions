@@ -1,2 +1,58 @@
-<!DOCTYPE html> <html> <head> <title>Anime Avatar</title> </head> <body> 
-  <script> src="js/main.js" async defer ></script> <canvas id="canvas" width="500" height="500"></canvas> <script> var canvas = document.getElementById("canvas"); var ctx = canvas.getContext("2d"); var avatar = { x: 0, y: 0, width: 100, height: 100, color: "black", }; function drawAvatar() { ctx.fillStyle = avatar.color; ctx.fillRect(avatar.x, avatar.y, avatar.width, avatar.height); } function moveAvatar(x, y) { avatar.x = x; avatar.y = y; } function doSomething() { var action = Math.floor(Math.random() * 4); switch (action) { case 0: // Walk moveAvatar(avatar.x + 10, avatar.y); break; case 1: // Jump moveAvatar(avatar.x, avatar.y + 20); break; case 2: // Wave moveAvatar(avatar.x - 10, avatar.y); break; case 3: // Smile moveAvatar(avatar.x, avatar.y - 20); break; } } drawAvatar(); setInterval(doSomething, 1000); </script> </body> </html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Anime Avatar</title>
+</head>
+<body>
+<canvas id="canvas" width="2000" height="2000"></canvas>
+<script> src="js/main.js" async defer ></script>
+<script>
+var canvas = document.getElementById("canvas");
+var ctx = canvas.getContext("2d");
+
+var avatar = {
+  x: 0,
+  y: 0,
+  width: 500,
+  height: 500,
+  color: "black",
+};
+
+function drawAvatar() {
+  ctx.fillStyle = avatar.color;
+  ctx.fillRect(avatar.x, avatar.y, avatar.width, avatar.height);
+}
+
+function moveAvatar(x, y) {
+  avatar.x = x;
+  avatar.y = y;
+}
+
+function doSomething() {
+  var action = Math.floor(Math.random() * 4);
+  switch (action) {
+    case 0:
+      // Walk
+      moveAvatar(avatar.x + 10, avatar.y);
+      break;
+    case 1:
+      // Jump
+      moveAvatar(avatar.x, avatar.y + 20);
+      break;
+    case 2:
+      // Wave
+      moveAvatar(avatar.x - 10, avatar.y);
+      break;
+    case 3:
+      // Smile
+      moveAvatar(avatar.x, avatar.y - 20);
+      break;
+  }
+}
+
+drawAvatar();
+
+setInterval(doSomething, 1000);
+</script>
+</body>
+</html>
