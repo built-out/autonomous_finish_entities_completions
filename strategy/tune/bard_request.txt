@@ -10,4 +10,4 @@ curl -X POST \
       "epochs": 10
     }
   }' \
-  https://api.bard.google.com/v1/finetune
+  https://bard.google.com/v1/finetune
