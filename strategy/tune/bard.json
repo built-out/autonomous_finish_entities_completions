@@ -1,0 +1,17 @@
+{
+  "url": "https://bard.google.com/v1/finetune",
+  "method": "POST",
+  "headers": {
+    "Authorization": "Bearer 1234567890",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "model_id": "my_model",
+    "training_data": "training_data.json",
+    "validation_data": "validation_data.json",
+    "fine_tune_parameters": {
+      "learning_rate": 0.001,
+      "epochs": 10
+    }
+  }
+}
