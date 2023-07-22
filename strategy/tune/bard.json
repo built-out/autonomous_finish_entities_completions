@@ -10,7 +10,7 @@
     "training_data": "training_data.json",
     "validation_data": "validation_data.json",
     "fine_tune_parameters": {
-      "learning_rate": 0.001,
+      "learning_rate": 0.0001,
       "epochs": 10
     }
   }
