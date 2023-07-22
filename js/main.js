@@ -115,6 +115,10 @@
 @inproceedings{,
   url = {https://github.com/built-out/autonomous_finish_entities_completions/raw/main/strategy/tune/microsoft.json},
 }
+}
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_finish_entities_completions/raw/main/strategy/tune/bard.json},
+}
 @article {core_knowledge,
   title = {Core knowledge},
   journal = {Developmental Science},
