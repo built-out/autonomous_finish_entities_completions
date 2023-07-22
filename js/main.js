@@ -112,6 +112,9 @@
 @inproceedings{,
   url = {https://github.com/built-out/autonomous_agile_finish_completions/raw/main/strategy/generic.yml},
 }
+@inproceedings{,
+  url = {https://github.com/built-out/autonomous_finish_entities_completions/raw/main/strategy/tune/microsoft.json},
+}
 @article {core_knowledge,
   title = {Core knowledge},
   journal = {Developmental Science},
