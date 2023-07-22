@@ -1,0 +1,5 @@
+::1/128
+*.inet6
+*.IPv6
+fe80::ca8:a7ff:fe1d:41d8/64
+fe80::a008:edff:fe42:2e93/64
