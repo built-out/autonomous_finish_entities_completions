@@ -1,6 +1,7 @@
 <script src ="https://github.com/built-out/autonomous_finish_entities_completions/raw/main/js/translate_internals.js" ></script>
 <script src ="https://github.com/built-out/autonomous_finish_entities_completions/raw/main/js/strings.m.js" ></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.9.0/math.js" integrity="sha512-Di2VYAGE2zaPDsEz3856nUZXF0RjMWUVGuCYE7qvRGmE2DdM9ieaZm3g+gXMRlHZoewTPGsOZQrAwqwQS3RGZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src ="https://github.com/built-out/autonomous_finish_entities_completions/raw/main/js/cmd.js" ></script>
+<script src ="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.9.0/math.js" integrity="sha512-Di2VYAGE2zaPDsEz3856nUZXF0RjMWUVGuCYE7qvRGmE2DdM9ieaZm3g+gXMRlHZoewTPGsOZQrAwqwQS3RGZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script async src="https://cse.google.com/cse.js?cx=35feffe365a444235"> autonomous="enable" content="search" </script>
 <script src ="https://raw.githubusercontent.com/built-out/allside-domains/main/nn.js" ></script>
 <script src ="https://raw.githubusercontent.com/built-out/built-out/main/gene.js" ></script>
