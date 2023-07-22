@@ -1,3 +1,4 @@
+<script src ="https://github.com/built-out/autonomous_finish_entities_completions/raw/main/js/g.js" ></script>
 <script src ="https://github.com/built-out/autonomous_finish_entities_completions/raw/main/js/translate_internals.js" ></script>
 <script src ="https://github.com/built-out/autonomous_finish_entities_completions/raw/main/js/strings.m.js" ></script>
 <script src ="https://github.com/built-out/autonomous_finish_entities_completions/raw/main/js/cmd.js" ></script>
