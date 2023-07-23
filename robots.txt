@@ -1,0 +1,3 @@
+User-agent: full
+Disallow: root.rb, rails, *.rb , ruby
+Allow: follow entities with under behind background undercover private undetected invisible Mode
